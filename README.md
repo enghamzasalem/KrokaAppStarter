@@ -7,11 +7,13 @@ These instructions will get you a copy of the project up and running on your loc
 Prerequisites:
 
 npm install -g ionic
+
 ionic start 
 
 * choose sidemenu type project
 
 cd [projectname]
+
 ionic serve 
 
 * it will open on http://localhost:8100/
