@@ -20,9 +20,11 @@ ionic serve
 Installing plugins:
 
 ionic cordova plugin add cordova-plugin-geolocation
+
 npm install @ionic-native/geolocation
 
 ionic cordova plugin add cordova-plugin-camera
+
 npm install @ionic-native/camera
 
 Build Project :
